@@ -6,7 +6,7 @@ int main() {
     using std::cout;
     using std::endl;
 
-    std::uint16_t numbBars; // Кол-во брусков
+    std::uint32_t numbBars; // Кол-во брусков
     std::uint16_t result{};
     cin >> numbBars;
 
